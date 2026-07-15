@@ -96,7 +96,7 @@ There is not an official apt repository yet. For now, install the `.deb` from
 the latest GitHub Release:
 
 ```bash
-version="0.3.3"
+version="0.3.5"
 curl -LO "https://github.com/daniel-g-carrasco/wayland-scroll-factor/releases/download/v${version}/wayland-scroll-factor_${version}-1_amd64.deb"
 sudo apt install "./wayland-scroll-factor_${version}-1_amd64.deb"
 ```
