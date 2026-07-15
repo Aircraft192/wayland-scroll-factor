@@ -10,7 +10,7 @@
 <p align="center">
   <b>Tune touchpad scroll and gesture sensitivity on Wayland.</b><br>
   GNOME Wayland support, plus Hyprland scroll and gesture support.<br>
-  <i>Current release: 0.3.3. Hyprland support is usable, but still newer than the GNOME backend.</i>
+  <i>Current release: 0.3.5. Hyprland support is usable, but still newer than the GNOME backend.</i>
 </p>
 
 ---
